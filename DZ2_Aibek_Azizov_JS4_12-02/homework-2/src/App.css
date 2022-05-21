@@ -1,0 +1,13 @@
+.header {
+    width: 100%;
+    padding: 20px;
+    display: inline-flex;
+    list-style-type: none;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 40px;
+}
+
+.header li {
+    margin-right: 20px;
+}
